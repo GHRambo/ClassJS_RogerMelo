@@ -6,3 +6,4 @@ const myAge = currentYear - myBirthyear;
 
 console.log(myBirthyear, currentYear)
 
+console.log(myAge)

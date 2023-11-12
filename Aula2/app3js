@@ -1,0 +1,27 @@
+// Inteiros e decimais
+const radios = 10;
+const pi = 3.14
+
+// Operadores Aritméticos
+const area = pi * radios ** 2;
+
+// Ordem de Operadores
+const crazyOperation = 5 * (10 -3) ** 2
+
+// Operadores de incremento e decremento
+let postLikes = 10
+postLikes++
+postLikes--
+
+// Operadores Aditio, Subtraction, Multiplication e division assignment
+postLikes += 10
+postLikes -= 10
+postLikes *= 3
+postLikes /= 2
+
+// NaN - Not a number
+console.log(7 / 'oi')
+
+// Concatenação de String com número
+
+console.log('O quantidade de likes é '+  postLikes + ' no post.')
